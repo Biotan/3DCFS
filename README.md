@@ -21,3 +21,6 @@ The details of our proposed 3DCFS architecture seen as follow
 <img src="https://github.com/Biotan/3DCFS/blob/master/misc/f4.png"/>
 
 ## Evaluation
+### Quantitative results on the S3DIS
+
+<img src="https://github.com/Biotan/3DCFS/blob/master/misc/f5.png" width="400"/> <img src="https://github.com/Biotan/3DCFS/blob/master/misc/f6.png" width="400"/>
