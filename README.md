@@ -3,6 +3,7 @@
 # Framework
 ## illustration
 The illustration of CFSM seen as follow
-<img src="https://github.com/Biotan/3DCFS/blob/master/misc/f1.png" width="375"/>
+
+<img src="https://github.com/Biotan/3DCFS/blob/master/misc/f1.png" width="475"/>
 ## 3DCFS architecture
 ![The details of our proposed 3DCFS architecture seen as follow](https://github.com/Biotan/3DCFS/blob/master/misc/f2.png)
