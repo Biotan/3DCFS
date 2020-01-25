@@ -44,7 +44,7 @@ cd 3DCFS/models
 python train.py
 ```
 
-6. test and evaluation
+6. testing and evaluation
 ```
 python test.py && python eval_iou_accuracy.py
 ```
